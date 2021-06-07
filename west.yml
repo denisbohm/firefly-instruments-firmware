@@ -11,4 +11,4 @@ manifest:
 #      revision: v1.5.0
       import: true
   self:
-      path: fireflydesign/instruments
+      path: firefly/instruments
