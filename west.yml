@@ -1,0 +1,14 @@
+manifest:
+  remotes:
+    - name: nordic
+      url-base: https://github.com/nrfconnect
+    - name: denisbohm
+      url-base: https://github.com/denisbohm
+  projects:
+    - name: sdk-nrf
+      path: nrf
+      remote: nordic
+#      revision: v1.5.0
+      import: true
+  self:
+      path: fireflydesign/instruments
